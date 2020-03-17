@@ -19,5 +19,6 @@ this will create an executable called `Fangi` in dev mode, which can be executed
 2. `fangi goodbye`
 
 ## In the end, should one be not happy with the executable, one can easily uninstall the executable by
-```python3 setup.py develop --uninstall
+```
+python3 setup.py develop --uninstall
 ```
